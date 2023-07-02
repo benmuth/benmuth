@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Ben! I started programming just before the pandemic, and after a stint as a cook at a few restaurants, I attended a batch at the [Recurse Center](https://www.recurse.com) in fall 2022.
+I'm Ben! I started programming just before the pandemic, and I attended a batch at the [Recurse Center](https://www.recurse.com) in fall 2022.
 
 - 🔭 I’m currently working on a port of [MuON](https://github.com/vshymanskyy/muon) to Go, the [PairPad](https://github.com/burntcarrot/pairpad) collaborative text editor, and a [music player web app](http://piano.benmuth.com/?base=2&notes=D4+E4+F4+G4+A5+C5+D5+E5+F5+G5&) based on the [binary piano](https://binarypiano.com/).
 - 🌱 I’m currently learning about [performance-aware programming](https://www.computerenhance.com/p/welcome-to-the-performance-aware), Zig, distributed systems, and more!
